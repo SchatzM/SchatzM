@@ -3,7 +3,7 @@
 ## I enjoy learning all things computing!
 - 🔭 I’m currently working as IT.
 - 🌱 I’m currently learning almost everything!
-- 🥅 2020 Goals: Improve my coding skills.
+- 🥅 2022 Goals: Improve my coding skills.
 - ⚡ Fun fact: I love discovering rare music from all around the world.
 
 ### Languages and Tools:
