@@ -1,9 +1,9 @@
-### Hi there, I'm Brian Passos - aka SchatzM/MSR 👋
+### Hi there, I'm Brayan Passos - aka SchatzM/MSR/bpassos 👋
 
 ## I enjoy learning all things computing!
 - 🔭 I’m currently working as IT.
 - 🌱 I’m currently learning almost everything!
-- 🥅 2022 Goals: Improve my coding skills.
+- 🥅 2023 Goals: Improve my coding skills.
 - ⚡ Fun fact: I love discovering rare music from all around the world.
 
 ### Languages and Tools:
